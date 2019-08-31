@@ -1,8 +1,8 @@
-def my_own_map(source_array, a = (source_array[i] * -1)) 
+def my_own_map(source_array, a = (source_array[i] * -1), b = (source_array[i]), c = ) 
 new_array = []
 i = 0
 while i < source_array.length do
-  new_array.push{ |a| {a} (source_array[i] * -1)}
+  new_array.push
   i+= 1
   while i < source_array.length do
   new_array.push(source_array[i])
