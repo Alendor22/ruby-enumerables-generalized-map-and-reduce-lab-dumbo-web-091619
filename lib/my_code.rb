@@ -8,3 +8,5 @@ def map_negativized(source_array, element1, element2)
   array1.push(source_array[i] * -1)
 #{element3}
 end
+return element3
+end
