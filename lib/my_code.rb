@@ -1,5 +1,5 @@
 def map(source_array, element1 = array.[], element2 = while i < source_array.length, element3 = i+= 1)
-
+do element1
  end
 
 do
