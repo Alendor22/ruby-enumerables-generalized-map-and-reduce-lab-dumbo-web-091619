@@ -1,8 +1,7 @@
-def map(source_array, element1, element2, element3)
-  element1 = Array
-  element2 = while i < source_array.length, element3 = i+= 1)
-  base = do #{element1}
- #{element2}
+def map(source_array, new_array, element1, element2)
+  new_array = Array.new
+  element1 = while i < source_array.length
+  element2 = i+= 1
 end
   #{element3}
     yield(base)
