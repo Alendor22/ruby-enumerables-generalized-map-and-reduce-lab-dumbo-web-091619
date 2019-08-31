@@ -1,9 +1,9 @@
-def map(source_array)
-  new_array= []
+def map(s)
+  new = []
   i = 0
-  while i < source_array.length
-    new.push(yield(source_array[i]))
+  while i < s.length
+    new.push(yield(s[i]))
     i += 1
   end
-  new_array
+  new
 end
