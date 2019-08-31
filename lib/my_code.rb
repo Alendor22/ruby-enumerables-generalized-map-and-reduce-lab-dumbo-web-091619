@@ -1,6 +1,7 @@
-def map_negativized(source_array, a = {while i < source_array.length}, b = )
+element1 = 
+def map_negativized(source_array, element1 = , element2 = i+= 1)
+ base = 
  do
   array1.push(source_array[i] * -1)
-i+= 1 
 
 end
