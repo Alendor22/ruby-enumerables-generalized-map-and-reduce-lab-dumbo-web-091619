@@ -7,3 +7,6 @@ def map(s)
   end
   new
 end
+
+def reduce(s)
+  
