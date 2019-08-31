@@ -1,4 +1,4 @@
-def my_own_map(source_array) 
+def my_own_map(source_array, a = (source_array[i] * -1)) 
 new_array = []
 i = 0
 while i < source_array.length do
