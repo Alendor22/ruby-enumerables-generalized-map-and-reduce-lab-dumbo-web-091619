@@ -1,1 +1,3 @@
-# Your Code Here
+def map_negativized(source_array)
+
+end
